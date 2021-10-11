@@ -1,0 +1,11 @@
+TypeObject
+PicCount (0 or 4)
+ColCount 
+TransParent  
+Pic1
+---
+Pic4
+Col1
+---
+ColN
+Armor Speed ShotSpeed Power Step Data1 Data2 Data3
